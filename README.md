@@ -10,6 +10,7 @@
 <br> 8. There will be a new card on top after every guess based on the remaining cards in the 20 card pile <br> 9. After each guess, it becomes the other players turn to guess on a card
 <br> 10. If there is a tie after all 20 cards are guessed, the game will continue until the a player gains 3 more points, with no chance for rebuttal by the other player</b>
 <br>
+<br>
 
 <h2>Program Aspects</h2>
 
